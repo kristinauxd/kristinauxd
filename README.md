@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @kristinauxd
 - 👀 I’m interested in technology, UX design, psychology, arts & culture
 - 🌱 I’m currently learning HTML, CSS, JS
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me kristinasboyanova@gmail.com
 
 <!---
